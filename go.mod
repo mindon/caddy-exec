@@ -1,4 +1,4 @@
-module github.com/abiosoft/caddy-exec
+module github.com/mindon/caddy-exec
 
 go 1.22
 
